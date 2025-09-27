@@ -1,5 +1,5 @@
 <h1>SoulTracker</h1>
-<hr>
+
 <h3>Project: Gamified Mental Health Journaling App</h3>
 
 A mobile/web app where users:
